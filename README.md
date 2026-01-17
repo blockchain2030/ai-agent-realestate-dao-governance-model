@@ -18,11 +18,11 @@ This simulation implements the methodology described in:
 
 ## 👥 Authors
 
-| Author | Affiliation | ORCID | Contact |
-|--------|-------------|-------|---------|
-| **Muhammad Shahid** | UTHM, Malaysia | [0009-0000-1474-683X](https://orcid.org/0009-0000-1474-683X) | hi240017@student.uthm.edu.my |
-| **Suziyanti Marjudi** | UTHM, Malaysia | [0000-0003-4894-0870](https://orcid.org/0000-0003-4894-0870) | suziyanti@uthm.edu.my |
-| **Abd Samad Hasan Basari** | UTHM, Malaysia | [0000-0002-7895-6585](https://orcid.org/0000-0002-7895-6585) | abdsamad@uthm.edu.my |
+| Author | Affiliation | 
+|--------|-------------|
+| **Muhammad Shahid** | UTHM, Malaysia | 
+| **Suziyanti Marjudi** | UTHM, Malaysia | 
+| **Abd Samad Hasan Basari** | UTHM, Malaysia | 
 
 ## 🎯 Overview
 
