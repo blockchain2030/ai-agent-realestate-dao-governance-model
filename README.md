@@ -242,12 +242,14 @@ If you use this simulation in your research, please cite:
 
 ```bibtex
 @article{shahid2025hierarchical,
-  title={A Hierarchical AI-Agent Governance Model for Real-Estate DAOs: 
-         Architecture and Simulation Study},
-  author={Shahid, Muhammad and Marjudi, Suziyanti and Basari, Abd Samad Hasan},
-  journal={},
-  year={2025},
-  institution={Universiti Tun Hussein Onn Malaysia}
+  title   = {A Hierarchical AI-Agent Governance Model for Real-Estate DAOs: Architecture and Simulation Study},
+  author  = {
+    Shahid, Muhammad
+    and Marjudi, Suziyanti
+    and Basari, Abd Samad Hasan
+  },
+  year    = {2025},
+  institution = {Universiti Tun Hussein Onn Malaysia}
 }
 ```
 
