@@ -1,0 +1,121 @@
+================================================================================
+                         PROPRIETARY SOFTWARE LICENSE
+                            ALL RIGHTS RESERVED
+================================================================================
+
+DAO Governance Simulation for Real Estate
+Version 1.0
+Copyright (c) 2025
+
+================================================================================
+                                  AUTHORS
+================================================================================
+
+Muhammad Shahid
+    Universiti Tun Hussein Onn Malaysia, Batu Pahat, Malaysia
+
+
+Suziyanti Marjudi
+    Universiti Tun Hussein Onn Malaysia, Batu Pahat, Malaysia
+
+Abd Samad Hasan Basari
+    Universiti Tun Hussein Onn Malaysia, Batu Pahat, Malaysia
+
+
+================================================================================
+                              LICENSE TERMS
+================================================================================
+
+This software and associated documentation files (the "Software") are the
+exclusive intellectual property of the Authors listed above. All rights are
+reserved by the Authors.
+
+RESTRICTIONS
+------------
+
+Without the prior written permission of the Authors, you may NOT:
+
+1. Copy, reproduce, or duplicate the Software or any portion thereof.
+
+2. Modify, adapt, translate, reverse engineer, decompile, disassemble, or
+   create derivative works based on the Software.
+
+3. Distribute, sublicense, lease, rent, loan, sell, or otherwise transfer
+   the Software or any rights therein to any third party.
+
+4. Use the Software for any commercial purpose or for any public display,
+   whether commercial or non-commercial.
+
+5. Remove, alter, or obscure any proprietary notices, labels, or marks on
+   the Software.
+
+6. Use the Software in any manner that infringes the intellectual property
+   or other rights of any third party.
+
+7. Use the Software to develop competing products or services.
+
+PERMITTED USE
+-------------
+
+The Software is provided solely for:
+
+1. Private academic research and evaluation purposes by the recipient.
+
+2. Review in connection with the associated research publication:
+   "A Hierarchical AI-Agent Governance Model for Real-Estate DAOs:
+   Architecture and Simulation Study"
+
+Any use beyond the scope of this permitted use requires explicit written
+authorization from the Authors.
+
+REQUESTS FOR PERMISSION
+-----------------------
+
+To request permission for use beyond what is permitted herein, please
+contact the Authors at the email addresses provided above.
+
+DISCLAIMER OF WARRANTIES
+------------------------
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL
+THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+LIMITATION OF LIABILITY
+-----------------------
+
+IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED
+TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+GOVERNING LAW
+-------------
+
+This License shall be governed by and construed in accordance with the
+laws of Malaysia, without regard to its conflict of law provisions.
+
+TERMINATION
+-----------
+
+This License is effective until terminated. Your rights under this License
+will terminate automatically without notice if you fail to comply with any
+of its terms. Upon termination, you must destroy all copies of the Software
+in your possession or control.
+
+ACKNOWLEDGMENT
+--------------
+
+This research was supported by Universiti Tun Hussein Onn Malaysia (UTHM)
+through Tier 1 (vot J122).
+
+================================================================================
+                         © 2025 All Rights Reserved
+          Muhammad Shahid, Suziyanti Marjudi, Abd Samad Hasan Basari
+================================================================================
