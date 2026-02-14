@@ -6,7 +6,7 @@
 
 A multi-agent simulation platform for comparing decentralized autonomous organization (DAO) governance models in tokenized real estate management.
 
-## 📄 Research Paper
+##  Research Paper
 
 This simulation implements the methodology described in:
 
@@ -16,7 +16,7 @@ This simulation implements the methodology described in:
 >
 > Universiti Tun Hussein Onn Malaysia (UTHM)
 
-## 👥 Authors
+## Authors
 
 | Author | Affiliation | 
 |--------|-------------|
@@ -24,7 +24,7 @@ This simulation implements the methodology described in:
 | **Suziyanti Marjudi** | UTHM, Malaysia | 
 | **Abd Samad Hasan Basari** | UTHM, Malaysia | 
 
-## 🎯 Overview
+## Overview
 
 This simulation compares three generations of DAO governance models:
 
@@ -36,14 +36,14 @@ This simulation compares three generations of DAO governance models:
 
 ### Simulation Features
 
-- 🏢 **100 tokenized properties** with dynamic states
-- 🤖 **Multi-agent hierarchy** (regulatory, economic, operational)
-- 📡 **Oracle/IoT event simulation** (rental requests, compliance checks, maintenance alerts)
-- 🔒 **Safety invariants enforcement** (consensus validity, data integrity, budget constraints, access control)
-- ⛽ **Gas estimation** with optional Ganache integration
-- 📊 **Comprehensive metrics** and visualizations
+-  **100 tokenized properties** with dynamic states
+- **Multi-agent hierarchy** (regulatory, economic, operational)
+- **Oracle/IoT event simulation** (rental requests, compliance checks, maintenance alerts)
+- **Safety invariants enforcement** (consensus validity, data integrity, budget constraints, access control)
+- **Gas estimation** with optional Ganache integration
+- **Comprehensive metrics** and visualizations
 
-## 📈 Key Metrics
+## Key Metrics
 
 The simulation evaluates:
 
@@ -61,7 +61,7 @@ The simulation evaluates:
 | Governance Cost | $120,000 | $90,000 | $55,000 |
 | ROI | ~1.0% | ~4.0% | ~7.5% |
 
-## 🛠️ Installation
+## Installation
 
 ### Requirements
 
@@ -83,7 +83,7 @@ pip install matplotlib
 pip install web3
 ```
 
-## 🚀 Usage
+## Usage
 
 ### Basic Usage
 
@@ -140,7 +140,7 @@ The simulation generates the following outputs:
 | `fig8.png` | Distribution of compliance resilience across DAO generations |
 | `fig9.png` | Average ROI with standard deviation error bars |
 
-## 📊 Figures
+##  Figures
 
 ### Figure 6: Latency vs Compliance Resilience
 Scatter/bubble visualization showing the trade-off between governance speed and compliance, with bubble size representing governance cost and color intensity indicating ROI.
@@ -154,7 +154,7 @@ Violin plots showing how compliance rates are distributed, highlighting DAO 3.0'
 ### Figure 9: ROI Comparison
 Bar chart with error bars comparing average return on investment, demonstrating the economic benefits of AI-agent governance.
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -181,7 +181,7 @@ Bar chart with error bars comparing average return on investment, demonstrating 
 └─────────────────────────────────────────────────────────────┘
 ```
 
-## 🔬 Safety Invariants
+##  Safety Invariants
 
 The simulation enforces four safety invariants:
 
@@ -202,7 +202,7 @@ The simulation enforces four safety invariants:
    - Role-based permissions enforcement
    - Minimal (1.0) → Partial (2.0) → Strict (3.0)
 
-## 📖 Economic Model
+##  Economic Model
 
 Based on the paper's worked example:
 
@@ -222,7 +222,7 @@ Results:
   DAO 3.0: N = $75,000  → ROI = 7.5%
 ```
 
-## 🧪 Reproducibility
+##  Reproducibility
 
 The simulation uses deterministic random seeding for reproducible results:
 
@@ -236,7 +236,7 @@ for seed in 1 2 3 4 5; do
 done
 ```
 
-## 📚 Citation
+##  Citation
 
 If you use this simulation in your research, please cite:
 
@@ -261,11 +261,11 @@ See [LICENSE.txt](LICENSE.txt) for full terms.
 
 **© 2025 Muhammad Shahid, Suziyanti Marjudi, Abd Samad Hasan Basari**
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 This research was supported by **Universiti Tun Hussein Onn Malaysia (UTHM)** through **Tier 1 (vot J122)**.
 
-## 📧 Contact
+##  Contact
 
 For questions, permissions, or collaboration inquiries, please contact the authors at the email addresses listed above.
 
