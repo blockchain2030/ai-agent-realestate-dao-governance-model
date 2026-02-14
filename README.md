@@ -241,14 +241,14 @@ done
 If you use this simulation in your research, please cite:
 
 ```bibtex
-@article{shahid2025hierarchical,
+@article{shahid2026hierarchical,
   title   = {A Hierarchical AI-Agent Governance Model for Real-Estate DAOs: Architecture and Simulation Study},
   author  = {
     Shahid, Muhammad
     and Marjudi, Suziyanti
     and Basari, Abd Samad Hasan
   },
-  year    = {2025},
+  year    = {2026},
   institution = {Universiti Tun Hussein Onn Malaysia}
 }
 ```
@@ -259,7 +259,7 @@ This software is proprietary. All rights reserved.
 
 See [LICENSE.txt](LICENSE.txt) for full terms.
 
-**© 2025 Muhammad Shahid, Suziyanti Marjudi, Abd Samad Hasan Basari**
+**© 2026 Muhammad Shahid, Suziyanti Marjudi, Abd Samad Hasan Basari**
 
 ##  Acknowledgments
 
